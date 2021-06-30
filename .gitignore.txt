@@ -1,0 +1,2 @@
+TTP226_SPI.pnproj
+TTP226_SPI.pnps
